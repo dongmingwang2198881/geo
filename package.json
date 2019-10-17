@@ -17,7 +17,6 @@
     "prepublishOnly": "npm run clean && npm run build",
     "version": "npm run build",
     "postversion": "git push && git push --tags",
-    "precommit": "npm run prettify",
     "prepush": "npm run build"
   },
   "jest": {

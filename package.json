@@ -1,0 +1,25 @@
+{
+  "name": "jisuying",
+  "version": "0.1.2",
+  "description": "npm publish test",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongmingwang2198881/geo.git"
+  },
+  "author": "dongming.wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dongmingwang2198881/geo/issues"
+  },
+  "homepage": "https://github.com/dongmingwang2198881/geo#readme",
+  "dependencies": {
+    "mapbox-gl": "^1.4.1"
+  }
+}

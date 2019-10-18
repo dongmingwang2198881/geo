@@ -45,18 +45,14 @@
     "type": "git",
     "url": "git+https://github.com/dongmingwang2198881/geo.git"
   },
-  "keywords": [
-  ],
   "author": "Dongming",
   "dependencies": {
     "@turf/bbox": "4.7.3",
     "@turf/helpers": "4.7.3",
     "deep-equal": "1.0.1",
-    "supercluster": "3.0.2",
-    "mapbox-gl": "^0.54.0"
+    "mapbox-gl": "^1.1.1"
   },
   "peerDependencies": {
-    "mapbox-gl": "^0.54.0",
     "prop-types": "^15.6.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2"
